@@ -1,0 +1,1 @@
+hadoop jar Test.jar com.rajesh.hadoop.SimplilearnAssignment /user/cloudera/rajesh/MR1/input /user/cloudera/rajesh/MR1/output/1
